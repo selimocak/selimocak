@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Bootstrap , JS**
 
-- 📫 How to reach me **selimocakbe@gmail.com <p align="left">
+- 📫 How to reach me **selimocakbe@gmail.com** <p align="left">
 <a href="https://codepen.io/selimocak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="selimocak" height="30" width="30" /></a>
 </p>**
 
