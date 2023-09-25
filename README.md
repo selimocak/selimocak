@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Selim Ocak</h1>
-<h3 align="center">I'm on my way to becoming a Frontend Developer. From Turkiye</h3>
+<h1>Hi 👋, I'm Selim Ocak</h1>
+<h3>I'm on my way to becoming a Frontend Developer. From Turkiye</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
