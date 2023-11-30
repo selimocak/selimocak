@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Selim Ocak</h1>
 <h3>I'm on my way to becoming a Frontend Developer. From Turkiye</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **selimocakbe@gmail.com** <p align="left">
 <a href="https://codepen.io/selimocak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="selimocak" height="30" width="30" /></a>
